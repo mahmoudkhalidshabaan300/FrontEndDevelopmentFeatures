@@ -1,0 +1,47 @@
+<!-- 
+4)**Head , And Nested Elements =>
+4.1)**<HEAD> : It Is A Collection Of Different MetaData For Your Own HTML Document (Own Web Page)...</HEAD>...
+4.2)**MetaData Refers To Different Instructions For Your Own HTML Document (Own Web Page) To Know Different Browsers Like Google Chrome , firefox Developer Edition Or ETC How To Archive , Or Render Your Own HTML Document (Own Web Page) , And If You Want To Add Different MetaData For Your Own HTML Document (Own Web Page) , You Must Use <META /> Tag...
+4.3)**<META /> : It Is A Self-Closing Tag , Void Tag , Empty Element , It Does Not Return Any Thing , Does Not Contain Any Contents Inside The <META /> Tag , <META /> Tag Only Used Inside <HEAD> Tag Only...
+-->
+<html>
+    <head>
+        <!-- charset MetaData Refers To The Characters Set , It Refers To International Standardization Organization , It Supports English Characters Only , It Does Not Support The Arabic Characters... -->
+        <meta charset = "ISO-8859-1" />
+        <!-- This Charset Supports Any Language Like Arabic Characters , Or English Characters... -->
+        <meta charset = "UTF-9" />
+        <!-- This MetaData Is Used To Allow Following Links , And Making Your Own HTML Document (Own Web Page) Appears In The Frist Searching Results In Different Browsers Like Google Chrome , Firefox Developer Edition , Or ETC... -->
+        <meta name="robots" content="follow , index" />
+        <!-- This MetaData Is Not Used To Allow Following Links , And Making Your Own HTML Document (Own Web Page) Appears In The Frist Searching Results In Different Browsers Like Google Chrome , Firefox Developer Edition , Or ETC... -->
+        <meta name="robots" content="unfollow , index" />
+        <!-- This MetaData Is Used To Allow Following Links , And Does Not Make Your Own HTML Document (Own Web Page) Appears In The Frist Searching Results In Different Browsers Like Google Chrome , Firefox Developer Edition , Or ETC... -->
+        <meta name="robots" content="follow , unindex" />
+        <!-- This MetaData Is Used To Allow Following Links , And Does Not Make Your Own HTML Document (Own Web Page) Appears In The Frist Searching Results In Different Browsers Like Google Chrome , Firefox Developer Edition , Or ETC... -->
+        <meta name="robots" content="unfollow , unindex" />
+        <!-- This MetaData Is Mainly Used To Make Your Own HTML Document (Own Web Page) Responsive In Different Screens When Using Any CSS Library Like BootStrapCSS , Or TailwindCSS... -->
+        <meta name="viewport" content="width=device-width , initial-scale=1.0" />
+        <!-- This MetaData Is Used To Add The Name Of The Author Of Your Own HTML Document (Own Web Page)... -->
+        <meta name="author" content="Mahmoud Khalid Shabaan Omar..." />
+        <!-- This MetaData Is Used To Add The Name Of The Developer Of Your Own HTML Document (Own Web Page)... -->
+        <meta name="developer" content="Mahmoud Sallam..." />
+        <!-- <LINK /> : It Is A Self-Closing Tag , Void Tag , Empty Tag , It Is Mainly Used To Give Styling , Or Decorations For Your Own HTML Document (Own Web Page) To Make The Styling , Or Decorations Of Your Own HTML Document (Own Web Page) From The External Styling File... -->
+        <link rel="stylesheet" href="./main.css" />
+        <!-- <STYLE> : It Is A Nested Tag , It Is Mainly Used To Add Different Styling , Or Decorations For Your Own HTML Document (Own Web Page) From The Internal CSS Styling , Or Internal CSS Decorations... -->
+        <style>
+            body{
+                text-align: center;
+                margin-top: 80px;
+                font-size: 24px;
+                font-weight: 900;
+            }
+        </style>
+        <!-- <SCRIPT> : It Is A Nested Tag , It Is Mainly Used To Add Different Internal Manipulation , Or Logical Operations For Your Own HTML Document (Own Web Page)...</SCRIPT>... -->
+        <script>
+            window.alert("Hello EveryOne! , And Welcome...");
+        </script>
+        <title>HeadAndNestedElements...</title>
+    </head>
+    <body>
+        Hello EveryOne! , And Welcome , This Is Different Head Elements , Different MetaData Also...
+    </body>
+</html>
