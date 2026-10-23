@@ -1,0 +1,46 @@
+<!-- 
+10)**HTML Attributes , And HTML Elements =>
+10.1)**HTML Attribute: It Refers To Different Features , And Advantages For Different HTML Elements From The HTML Language , It Is Mainly Used To Add Different Features For Different HTML Elements From The HTML Language To Distinguish Between Different HTML Elements , And There Are Different HTML Attributes Like: 
+    10.1.1)**Global HTML Attribute: It Refers To Different HTML Attributes That Mainly Used Globally For Different HTML Tags From The HTML Language Like Class , ID , Or ETC Like If You Want To Use Class For Different HTML Tags From The HTML Language In Your Own HTML Document (Own Web Page) To Distinguish Between Different HTML Tags In Your Own HTML Document (Own Web Page)...
+    10.1.2)**Element HTML Attribute: It Refers To Different HTML Attributes That Mainly Used Elementary For Specified HTML Tag From The HTML Language Like SRC , HREF , Or ETC...
+10.2)**Different HTML Elements From The HTML Language Are Called HTML Tags , And There Are Different Types Of The HTML Tag From The HTML Language Like =>
+    10.2.1)**Nested HTML Tag: It Refers To Different Tag That You Want To Add Content Inside Your Own HTML Document (Own Web Page) , It Has A <Opening Tag> , And </Closing Tag> , Between <Opening Tag> , And </Closing Tag> Contains The Tag Scope.
+        **Tag Scope: Refers To Different Contents Between <Opening Tag> , And </Closing Tag> That Appears For Different Users Of Your Own HTML Document (Own Web Page)...
+    10.2.2)**Self-Closing HTML Tag: It Also Named By Void Tag , Empty Tag , It Refers To Different HTML Tags That Does Not Has Any Content Inside This HTML Tag , Because It Is A Collection Of Instructions For Your Own HTML Document (Own Web Page) To Know Different Browsers Like Google Chrome , Firefox Developer Edition , Or ETC How To Archive , Or Render Your Own HTML Document (Own Web Page)...
+        **Void Tag , Or Empty , Because It Does Not Return Any Contents That Appears For Different Users Of Your Own HTML Document (Own Web Page) When Archiving , Or Rendering By Different Browsers Like Google Chrome , Firefox Developer Edition , Or ETC...
+-->
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>HTMLAttributesHTMLElements</title>
+        <style>
+            .main-p{
+                color: #009;
+                background: #09c;
+                padding: 20px;
+            }
+            .sec-p{
+                color: #fe0523;
+                background-color: #f5f5f5;
+                padding: 20px;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>HTML Attributes , And HTML Elements</h1>
+        <p id="main" class="main-p">There Are Different HTML Attributes...</p>
+        <p id="secondary" class="sec-p">There Are Different HTML Elements...</p>
+        <script>
+            const main = document.getElementById("main");
+            // console.log(main)
+            main.addEventListener("click" , () => {
+                main.innerHTML = "SRC , HREF , REL , Or ETC";
+            });
+            const secon = document.getElementById("secondary");
+            // console.log(secon);
+            secon.addEventListener("click" , () => {
+                secon.innerHTML = "P , H1 , H2 , BODY , STYLE , Or ETC...";
+            })
+        </script>
+    </body>
+</html>
