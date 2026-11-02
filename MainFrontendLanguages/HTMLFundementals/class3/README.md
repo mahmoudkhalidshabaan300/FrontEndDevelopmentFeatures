@@ -7,9 +7,7 @@
 ---------------------------------------------------
 2.2)**Inspect: It Is Used As A Developer Tool To Know Different HTML Element Types From The HTML Language That Mainly Used To Build The Structure Of Your Own HTML Document (Own Web Page).
 
-| ![Inspect](https://github.com/mahmoudkhalidshabaan300/FrontEndDevelopmentFeatures/blob/main/MainFrontendLanguages/HTMLFundementals/AllHTMLImages/ElementsAndBrowsers/Inspect2.jpeg) |
-| ![Inspect](https://github.com/mahmoudkhalidshabaan300/FrontEndDevelopmentFeatures/blob/main/MainFrontendLanguages/HTMLFundementals/AllHTMLImages/ElementsAndBrowsers/Inspect3.jpeg) |
-![Inspect](https://github.com/mahmoudkhalidshabaan300/FrontEndDevelopmentFeatures/blob/main/MainFrontendLanguages/HTMLFundementals/AllHTMLImages/ElementsAndBrowsers/Inspect1.png)
+| ![Inspect](https://github.com/mahmoudkhalidshabaan300/FrontEndDevelopmentFeatures/blob/main/MainFrontendLanguages/HTMLFundementals/AllHTMLImages/ElementsAndBrowsers/Inspect2.jpeg) | ![Inspect](https://github.com/mahmoudkhalidshabaan300/FrontEndDevelopmentFeatures/blob/main/MainFrontendLanguages/HTMLFundementals/AllHTMLImages/ElementsAndBrowsers/Inspect3.jpeg) | ![Inspect](https://github.com/mahmoudkhalidshabaan300/FrontEndDevelopmentFeatures/blob/main/MainFrontendLanguages/HTMLFundementals/AllHTMLImages/ElementsAndBrowsers/Inspect1.png)
 
 ----------------------------------------------------
 2.3)**UA Stylesheet: It Refers To The User Agent Stylesheet , It Is The CSS Custom Decorations , Or CSS Custom Styling For Different HTML Elements From The HTML Language That Mainly Used To Build The Structure Of Your Own HTML Document (Own Web Page).
