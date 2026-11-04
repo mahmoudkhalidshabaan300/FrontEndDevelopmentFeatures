@@ -59,7 +59,7 @@
 04.8)**<SCRIPT> : It Is A Nested HTML Tag , It Is Mainly Used To Make Different Manipulations , And Logical Operations Of Your Own HTML Document (Own Web Page).</SCRIPT>.
 
 ---------------------------------------------------------------------------------
-04.9)**<LINK />: It Is A Self-Closing HTML Tag , Void Tag , Empty Tag , That Mainly Used To Add Icon For Your Own HTML Document (Own Web Page) Like: <LINK rel="icon" href="SourceOfTheIcon" />.
+04.9)**<LINK />: It Is A Self-Closing HTML Tag , Void Tag , Empty Tag , That Mainly Used To Add Icon For Your Own HTML Document (Own Web Page) Like: <LINK rel="icon href="SourceOfTheIcon" />.
 
 | ![Amazon Icon](https://github.com/mahmoudkhalidshabaan300/FrontEndDevelopmentFeatures/blob/main/MainFrontendLanguages/HTMLFundementals/AllHTMLImages/HeadAndNestedElements/Screenshot%202026-11-03%20191858.png) | ![Output of Amazon Icon](https://github.com/mahmoudkhalidshabaan300/FrontEndDevelopmentFeatures/blob/main/MainFrontendLanguages/HTMLFundementals/AllHTMLImages/HeadAndNestedElements/Screenshot%202026-11-03%20192550.png) |
 
