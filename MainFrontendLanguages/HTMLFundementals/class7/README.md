@@ -19,6 +19,8 @@
 | ![Doctype Mode VS Quirks Mode](https://github.com/mahmoudkhalidshabaan300/FrontEndDevelopmentFeatures/blob/main/MainFrontendLanguages/HTMLFundementals/AllHTMLImages/DoctypeAndQuirksMode/Screenshot%202026-11-04%20031617.png) | ![Doctype Mode VS Quirks Mode Output](https://github.com/mahmoudkhalidshabaan300/FrontEndDevelopmentFeatures/blob/main/MainFrontendLanguages/HTMLFundementals/AllHTMLImages/DoctypeAndQuirksMode/Screenshot%202026-11-04%20031802.png) |
 
 ----------------------------------------------------------------------
+DOCTYPE Of Amazon EGY Website:
+------------------------------------
 | ![Doctype Of Amazon EGY Website](https://github.com/mahmoudkhalidshabaan300/FrontEndDevelopmentFeatures/blob/main/MainFrontendLanguages/HTMLFundementals/AllHTMLImages/DoctypeAndQuirksMode/Screenshot%202026-11-04%20032550.png) |
 
 ----------------------------------------------------------------------
