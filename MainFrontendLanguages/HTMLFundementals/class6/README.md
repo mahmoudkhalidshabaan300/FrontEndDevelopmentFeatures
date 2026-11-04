@@ -2,11 +2,12 @@
 ----------------------------------
 05.1)**There Are Different Types Of The Comment In The HTML Language Like:
 --------------------------------------------------------------------------
-05.1.1)**Single Line Comment: Control (CTRL) + "ظ" : It Is Mainly Used To Make A Single Line Comment In Your Own HTML Document (Own Web Page) Like <!-- Single Line Comment -->. 
+05.1.1)**Single Line Comment: Control (CTRL) + "ظ" : It Is Mainly Used To Make A Single Line Comment In Your Own HTML Document (Own Web Page) Like <!-- Single Line Comment ->. 
 ---------------------------------------------------------------------------
 05.1.2)**Multiple Lines Comment: It Is Mainly Used To Make A Multiple Lines Of Comments In Your Own HTML Document (Own Web Page). Like <!-- Single Line Comment One...
                  Single Line Comment Two...
-                 Single Line Comment Three... -->
+                 Single Line Comment Three... ->
+                 
 ---------------------------------------------------------------------------
 05.2)**Different HTML Comments From The HTML Language Does Not Render , Or Archive By Different Browsers Like Google Chrome , Firefox Developer Edition , Or ETC For This Reason Different Comments Does Not Appear For Different Users Of Your Own HTML Document (Own Web Page).
 
