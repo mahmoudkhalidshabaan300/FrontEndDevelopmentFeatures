@@ -1,6 +1,6 @@
 07)**Different HTML Heading Levels:
 ------------------------------------
-07.1)**HEADING HTML Tag Is Mainly Used To Make A Head In Your Own HTML Document (Own Web Page) By Using <H1> HTML Tag From The HTML Tag.
+07.1)**HEADING HTML Tag Is Mainly Used To Make A Head In Your Own HTML Document (Own Web Page) By Using One Of Different Heading Levels From H1 To H6 From The HTML Language.
 
 -----------------------------------------------------------------------
 07.2)**There Are Different Heading Levels From H1 To H6 From The HTML Language Like:
