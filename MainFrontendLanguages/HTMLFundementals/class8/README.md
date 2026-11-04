@@ -39,6 +39,6 @@
 
 --------------------------------------------------------------------------------------------------------------
 
-| ![Different HTML Heading Levels](https://github.com/mahmoudkhalidshabaan300/FrontEndDevelopmentFeatures/blob/main/MainFrontendLanguages/HTMLFundementals/AllHTMLImages/DifferentHeadingLevels/Screenshot%202026-11-04%20035552.png) | ![Different HTML Heading Levels](https://github.com/mahmoudkhalidshabaan300/FrontEndDevelopmentFeatures/blob/main/MainFrontendLanguages/HTMLFundementals/AllHTMLImages/DifferentHeadingLevels/Screenshot%202026-11-04%20041604.png)
+| ![Different HTML Heading Levels](https://github.com/mahmoudkhalidshabaan300/FrontEndDevelopmentFeatures/blob/main/MainFrontendLanguages/HTMLFundementals/AllHTMLImages/DifferentHeadingLevels/Screenshot%202026-11-04%20035552.png) | ![Different HTML Heading Levels](https://github.com/mahmoudkhalidshabaan300/FrontEndDevelopmentFeatures/blob/main/MainFrontendLanguages/HTMLFundementals/AllHTMLImages/DifferentHeadingLevels/Screenshot%202026-11-04%20041945.png)
 
 --------------------------------------------------------------------------------------------------------------
